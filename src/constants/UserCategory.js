@@ -1,0 +1,1 @@
+const UserCategory = ["Provider", "User"]

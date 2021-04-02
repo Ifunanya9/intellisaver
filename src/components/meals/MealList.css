@@ -1,0 +1,9 @@
+.search{
+    border-radius: 40px;
+    outline: none;
+    display: flex;
+}
+
+.space{
+    padding: 0 30px 30px 30px;
+}

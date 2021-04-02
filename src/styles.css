@@ -1,0 +1,41 @@
+/* .App {
+    height: 100%;
+    margin: 0;
+}
+
+.page-content{
+    min-height: 100%;
+    margin-bottom: -200px;
+}
+
+.page-content::after{
+    content: "";
+    display: block;
+
+}
+
+.bottom, .page-content::after{
+    height: 200px;
+} */
+
+/* .page-content{
+    margin-top: 50px;
+}
+
+.sticky{ */
+
+  /* this "fixes" the element in place, wherever you position it */
+  /* position: fixed;
+  top: 0;
+  height: 30px; */
+
+  /* width needs to be 100% when fixed width */
+  /* width: 100%;
+
+  z-index: 99;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+} */
+
+/* body{
+    font-family: 'Ranchers', cursive !important;
+} */

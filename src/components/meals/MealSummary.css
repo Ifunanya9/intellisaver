@@ -1,0 +1,9 @@
+.my-size{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.space{
+    padding: 30px;
+}
